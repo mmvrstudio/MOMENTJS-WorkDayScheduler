@@ -1,13 +1,15 @@
 # Deployed App (link): 
 
-Expl
-
-## Table of Contents
 
 
 ## Description:
 
-The goal of this project was to create a simple workday scheduler. The scheduler has a row to represent each hour of the typical workday (i.e., 9AM to 5PM) where the user can enter and save tasks for that given hour. Each hour is color-coded based on whether it has passed, is current, or is in the future. 
+This is a Work Day scheduler. 
+The scheduler is divided in blocks (9AM to 5PM) to represent each hour of the workday. The user can enter and save tasks in those time blocks.  
+        Each hour is color-coded for past, current and future events.
+        Past: 
+        Present: Red 
+        Future: Green 
 
 
 ### Demo
